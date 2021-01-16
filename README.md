@@ -4,6 +4,6 @@
 
 <li>Javascript</li>
 <li>React</li>
-<li>tachyons css</li>
+<li>tachyons </li>
 <li>react-particles-js</li>
 <li>react-tilt</li>
